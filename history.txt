@@ -1,0 +1,17 @@
+Client 56900 joined chat
+client56899: hi
+client56900: hello there
+client56900: how is it going&
+client56899: fine thank u
+client56899: bye
+client56900: goodby
+client56900: exit
+Client 50896 joined chat
+client50896: 56
+Client 50897 joined chat
+client50897: 5677
+client50897: sgfg
+Client 50431 joined chat
+client50431: sdds
+Client 50432 joined chat
+client50432: drggdff
